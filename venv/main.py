@@ -1,4 +1,5 @@
 #Alexandre Gagnon 401 13sept2022
+
 def count_word() :
     #je demande a l'utilisateur decrire une phrase
     test_string = input("Ecrivez une phrase")
